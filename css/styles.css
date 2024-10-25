@@ -43,7 +43,7 @@ header {
 
 }
 #img-1 {
-    background-image: url('img/Imagem1.jpg');
+    background-image: url('img/imagem1.jpg');
      
 }
 #img-2 {
@@ -63,7 +63,7 @@ header {
      
 }
 #img-6 {
-    background-image: url('../img/imagem6.jpg');
+    background-image: url('img/imagem6.jpg');
      
 }
  h3 {
