@@ -108,20 +108,7 @@ footer {
     text-align: center;
     padding: 80px;
 }
-@media (max-width: 600px) {
-    .produto-conteudo{
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 10px;
-    }
 
-    .card {
-        width: 100%;
-        background-color: #f0f0f0;
-        padding: 2px;
-        text-align: center;
-        border: 2px solid #ddd;
-    }
     
      
 }
