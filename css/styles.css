@@ -43,32 +43,32 @@ header {
 
 }
 #img-1 {
-   background-image: url('/repo-name/img/imagem1.jpg');
+   background-image: url("../img/imagem1.jpg");
 
      
 }
 #img-2 {
-  background-image: url('/repo-name/img/imagem2.jpg');
+  background-image: url("../img/imagem2.jpg");
 
      
 }
 #img-3 {
-    background-image: url('/repo-name/img/imagem3.jpg');
+    background-image: url("../img/imagem3.jpg");
 
      
 }
 #img-4 {
-    background-image: url('/repo-name/img/imagem4.jpg');
+    background-image: url("../img/imagem4.jpg");
 
      
 }
 #img-5 {
-    background-image: url('/repo-name/img/imagem5.jpg');
+    background-image: url("../img/imagem5.jpg");
 
      
 }
 #img-6 {
-    background-image: url('/repo-name/img/imagem6.jpg');
+    background-image: url("../img/imagem6.jpg");
 
      
 }
