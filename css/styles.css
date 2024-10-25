@@ -43,7 +43,8 @@ header {
 
 }
 #img-1 {
-    background-image: url('img/imagem1.jpg');
+   background-image: url('/repo-name/img/imagem1.jpg');
+
      
 }
 #img-2 {
