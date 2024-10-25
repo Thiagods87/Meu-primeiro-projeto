@@ -42,11 +42,11 @@ header {
     background-size: cover;
 
 }
-.img-1 {
+#img-1 {
     background-image: url('img/imagem1.jpg');
      
 }
-.img-2 {
+#img-2 {
     background-image: url('img/imagem2.jpg');
      
 }
